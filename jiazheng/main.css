@@ -1,0 +1,18 @@
+a:link {text-decoration:none; color: #003399}
+a:hover {text-decoration:underline; color:#990000}
+body {background-color:#ffffff}
+
+.active {font-weight:bold}
+.inactive {color:gray}
+
+.header {font-weight:bold; color:#990000}
+.section {margin:18px; max-width:1200px}
+.mainsection {margin:18px; max-width:1200px}
+
+td {padding:8px}
+td div {padding:8px}
+
+li {margin:8px}
+ul {list-style: square}
+
+html { font-family: "Helvetica" }
